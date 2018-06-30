@@ -18,8 +18,8 @@
     2. Accuracy on test set: 0.766
     
 ### Gradient Boosting
-    1. Accuracy on training set: 0.832
-    2. Accuracy on test set: 0.792
+    1. Accuracy on training set: 0.863
+    2. Accuracy on test set: 0.766
    
 ### Support Vector Machine
     1. Accuracy on training set: 0.781
